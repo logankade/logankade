@@ -19,7 +19,13 @@
 ⚔️Veteran of the 10th Mountain Division, US Army, with a knack for clear communication and team coordination.
 
 **Portfolio/Contact:**
+
+
 🔗 Portfolio: [datascienceportfol.io/logan](https://www.datascienceportfol.io/logan)
+
+🔗 LinkedIn: [linkedin.com/in/loganlkp/](https://www.linkedin.com/in/loganlkp/)
+
 📧 Email: loganphillips240@outlook.com
 
 👉 If you're aware of a role that I would be a great fit for, please reach out.
+
