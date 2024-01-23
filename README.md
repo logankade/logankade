@@ -21,7 +21,7 @@
 **Portfolio/Contact:**
 
 
-🔗 Portfolio: [datascienceportfol.io/logan](https://www.datascienceportfol.io/logan)
+🔗 Portfolio: [loganphillips.carrd.co](https://loganphillips.carrd.co/)
 
 🔗 LinkedIn: [linkedin.com/in/loganlkp/](https://www.linkedin.com/in/loganlkp/)
 
